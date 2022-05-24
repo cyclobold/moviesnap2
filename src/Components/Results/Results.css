@@ -1,0 +1,5 @@
+.results{
+    max-height: 600px;
+    overflow-y: auto;
+    margin-top: 50px;
+}
